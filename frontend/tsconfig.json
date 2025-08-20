@@ -8,9 +8,7 @@
       "@/*": [
         "src/*"
       ],
-      "@payload-config": [
-        "../backend/payload.config.ts"
-      ]
+      "@payload-config": ["../backend/src/payload.config.ts"]
     },
     "lib": [
       "dom",
